@@ -12,6 +12,7 @@ public class Main {
         System.out.println(cheakTeen);
         boolean cheTeen = Sub.isTeen(15);
         System.out.println(cheTeen);
+        System.out.println("hello");
 
     }
 }
