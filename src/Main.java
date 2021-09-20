@@ -13,7 +13,7 @@ public class Main {
         boolean cheTeen = Sub.isTeen(15);
         System.out.println(cheTeen);
         System.out.println("hello");
-        system.out.println("changes from github to project")
+        System.out.println("changes from github to project");
 
     }
 }
